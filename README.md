@@ -1,4 +1,5 @@
 public class D{
+
   public void static main(String[] args){
       Random r = new Random();
       int q = r.nextInt(10)+1;
@@ -16,5 +17,8 @@ public class D{
       break;
           }
        }
+  //改动
+  System.out.println("游戏介绍");
+       
      }
    }
