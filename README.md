@@ -1,4 +1,3 @@
-# gitskills
 public class D{
   public void static main(String[] args){
       Random r = new Random();
@@ -9,7 +8,6 @@ public class D{
       int s = sc.nextInt();
       if(s<q){
       System.out.println("小了")；
-      
       }else if(s>q){
       System.out.println("大了");
       }
@@ -17,7 +15,6 @@ public class D{
       System.out.println("恭喜获胜！！！");
       break;
           }
-      
        }
      }
    }
