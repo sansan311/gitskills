@@ -16,5 +16,7 @@ public class D{
       break;
           }
        }
+//改动
+System.out.print("下一关");
      }
    }
